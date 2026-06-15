@@ -1,29 +1,49 @@
-# Welcome to the Digital Backbone 🦴
+# Government Digital Service - Digital Transformation
 
-## What is it?
+We are the **Digital Transformation** group within the Government Digital Service at DSIT.
 
-The Digital Backbone (DBB) is a digital transformation initiative for the UK public sector, which will provide the technical foundations for joined-up and efficient public services. DBB is being delivered by the Government Digital Service (GDS), part of the Department for Science, Innovation and Technology (DSIT). We committed to introducing the Backbone in the [*Blueprint for a Modern Digital Government*](https://www.gov.uk/government/publications/a-blueprint-for-modern-digital-government/a-blueprint-for-modern-digital-government-html).
+## About us
 
-Our mission is to introduce the capabilities needed to connect fragmented services and allow public bodies to share, buy and collaborate on software solutions. DBB is at an early stage of maturity and our scope of work is likely to evolve. We will work to continually understand challenges and pain points within the public sector and deliver iterative improvements.
+Digital Transformation helps teams across government design, build, integrate, and operate better digital services.
 
-## Why do we need it?
+Our work focuses on:
 
-DBB aims to tackle three fundamental challenges identified by the [*State of Digital Government Review*](https://www.gov.uk/government/publications/state-of-digital-government-review/state-of-digital-government-review). These are:
-1. Public sector services are disconnected, with public servants often manually transferring data and manually progressing a service journey from one stage to the next
-2. Public sector workers struggle to find and work with each other across organisational boundaries, leading to duplicative and sometimes conflicting work
-3. The processes involved in delivering software solutions are broken, duplicating effort and spend both when solutions are built in-house and when they are bought.
+* enabling delivery teams with practical engineering support
+* improving reuse across services and departments
+* developing shared patterns, guidance and tooling
+* supporting modern, secure and sustainable technical delivery
+* helping government teams move faster without lowering standards
 
-## Who is it for?
+## Engineering Enablement
 
-Our users are people working in UK public sector organisations, including:
-- Central government departments
-- Devolved administrations
-- Arms-length bodies (ALBs)
-- Government agencies
-- Local authorities (LAs)
-- NHS, Police, Fire and Social Care services
+For support, guidance, onboarding and internal requests, use the DTx Engineering Enablement channels below.
 
-## Want to learn more?
-To receive our latest news and updates, subscribe to the [Digital Backbone mailing list](https://www.us14.list-manage.com/subscribe?u=751cf84762295209ed8291813&id=3ac038f6b9).
+### Internal support links
 
-To join community conversations and ask questions publicly, you can visit our [GitHub Discussions](https://github.com/orgs/govuk-digital-backbone/discussions). If you would rather send us a private query, comment, or feedback, please use [our contact form](https://submit.forms.service.gov.uk/form/8339/digital-backbone-contact) instead.
+* [DTx Engineering Enablement SharePoint page](https://beisgov.sharepoint.com/sites/GDS/SitePages/DTx-Engineering-Enablement.aspx)
+* [DTx Engineering Enablement General channel in Microsoft Teams](https://teams.microsoft.com/l/channel/19:qSLVALVWloHELLn8Ly01ZTVEdkpBKyfQKvskb3pmbKA1%40thread.tacv2/DTx%20Engineering%20Enablement%20General?groupId=9b78210e-f47d-4bd9-ad16-0c24eb4bde0c&tenantId=cbac7005-02c1-43eb-b497-e6492d1b2dd8)
+* [GDS Slack channel](https://gds.slack.com/archives/C0AERJ9KP4M)
+
+## Working in this organisation
+
+Repositories in this organisation should aim to be:
+
+* clearly named and described
+* documented enough for others to understand the purpose and status of the work
+* explicit about whether they are experimental, active, archived or maintained
+* safe to share internally, with secrets and credentials kept out of source control
+* aligned with relevant GDS and government engineering standards
+
+Where appropriate, repositories should include:
+
+* a `README.md`
+* a licence
+* contribution guidance
+* security reporting guidance
+* clear ownership and support information
+
+## Repository status
+
+Not all repositories in this organisation are production services. Some may be prototypes, experiments, examples, documentation sites or archived work.
+
+Check the individual repository `README.md` for its current status, owner and support route.
